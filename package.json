@@ -1,0 +1,15 @@
+{
+  "name": "gpu-scraper",
+  "version": "1.0.0",
+  "description": "gpu scraper from amazon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sean Gil",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^20.4.0",
+    "selenium-webdriver": "^4.9.2"
+  }
+}
